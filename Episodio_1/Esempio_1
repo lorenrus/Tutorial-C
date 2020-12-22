@@ -1,1 +1,22 @@
 
+//
+//  main.c
+//  Episodio_1 - Tutorial C Language
+//
+//  Created by Lorenzo Ruscitti on 22/12/20.
+//
+
+#include <stdio.h>
+
+int main() {
+    
+    /*
+     * Comenaod /n: Eseguo un ritorno a capo
+     * Comendo /t: aggiunge uno spazio in più, equivale all'uso di TAB.
+     */
+    
+    printf(" Welcome to C programming Tutorial \t");
+    printf(" direct by Lorenzo Ruscitti \n");
+    
+    return 0;
+}
