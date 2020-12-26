@@ -1,1 +1,38 @@
 
+//
+//  main.c
+//  Episodio_2
+//
+//  Created by Lorenzo Ruscitti on 26/12/20.
+//
+
+#include <stdio.h>
+
+
+int A = 7;
+char a = '7';
+int B;
+float C;
+
+int main() {
+    
+    B = (int) a;
+    
+    C = (float) A/B;
+    
+    A = A + B;
+    
+    A += B;
+    
+    // bool A, B;
+    //if( A && (||) B) {
+    
+    //}
+    //1010 &(|) 0010
+    
+    // A ++; A = A + 1
+    // ++ A;
+    // A + B;
+    
+    //(A * B) + C;
+}
